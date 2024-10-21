@@ -1,3 +1,5 @@
+import "./globals.css";
+
 // Defines the root layout that wraps all pages
 export const metadata = {
   title: "Patisserie Gallery",
